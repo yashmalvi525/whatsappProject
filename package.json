@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "imap-simple": "^1.6.3",
+    "nodemailer": "^6.9.16",
+    "openai": "^4.77.0",
+    "semver": "^7.6.3",
+    "twilio": "^5.4.0"
+  }
+}
